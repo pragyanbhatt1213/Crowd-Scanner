@@ -1,0 +1,4 @@
+train: E:/Practice/Crowd Scanner/dataset/images/train
+val: E:/Practice/Crowd Scanner/dataset/images/val
+nc: 1
+names: ['person']
